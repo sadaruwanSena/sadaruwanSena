@@ -2,17 +2,17 @@
 
   <h1>Hi, I'm Sadaruwan Senarathna 👋</h1>
 
-  <h3>💻 Software Developer | 🎨 UI/UX Enthusiast</h3>
+  <h3>💻 Software Engineering Student & Developer</h3>
 
   <p>
-    <em>Passionate about building modern, responsive, and user-friendly web applications.</em>
+    <em>Building scalable software solutions and clean user interfaces with a passion for continuous learning.</em>
   </p>
 
   <p>
-    <a href="https://github.com/your-username">
+    <a href="https://github.com/sadaruwanSena">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/your-username">
+    <a href="https://www.linkedin.com/in/sadaruwanSena">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:your-email@example.com">
@@ -26,19 +26,19 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Java, HTML, CSS & MySQL**
-- 💡 I enjoy creating **modern UI/UX designs**
-- 🎯 My goal is to become a **professional software developer**
-- ⚡ Fun fact: **I love turning ideas into real projects!**
+- 🔭 I'm currently working on developing full-stack and desktop applications.
+- 🌱 I'm currently deepening my knowledge in **Java, MySQL, and Modern Web Technologies**.
+- 💡 I enjoy solving complex logic problems and structuring efficient database architectures.
+- 🎯 My goal is to grow into a skilled **Software Engineer** capable of building impactful solutions.
+- ⚡ Fun fact: I love turning creative ideas into functional code!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,netbeans" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,netbeans" alt="Tech Stack">
 
 </div>
 
@@ -51,10 +51,10 @@
     <td width="50%">
       <h3 align="center">🛒 E-Commerce Website</h3>
       <p align="center">
-        A modern and responsive online shopping website built using HTML and CSS.
+        A modern, responsive online shopping platform designed with a clean and interactive UI.
       </p>
       <p align="center">
-        <a href="https://github.com/your-username/ecommerce-website">
+        <a href="https://github.com/sadaruwanSena">
           <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
@@ -62,10 +62,10 @@
     <td width="50%">
       <h3 align="center">🎓 Student Management System</h3>
       <p align="center">
-        A desktop application designed to manage student information efficiently.
+        A robust desktop-based application built to streamline student data tracking and management.
       </p>
       <p align="center">
-        <a href="https://github.com/your-username/student-management-system">
+        <a href="https://github.com/sadaruwanSena">
           <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/your-username">GitHub</a> •
+  <a href="https://github.com/sadaruwanSena">GitHub</a> •
   <a href="https://www.linkedin.com/in/sadaruwanSena">LinkedIn</a> •
   <a href="mailto:your-email@example.com">Email</a>
 
@@ -106,8 +106,5 @@
 ---
 
 <div align="center">
-
-  <p>⭐ Thanks for visiting my profile!</p>
-
+  <p>⭐ Thank you for visiting my profile!</p>
 </div>
-
